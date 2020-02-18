@@ -26,6 +26,7 @@
 
 1. EDA (탐색적 데이터 분석) => 데이터 분석의 가장 **__기본__**
    -> 사실(data)를 바탕으로 그 안에 내재된 내용을 알아내는 것
+   -> 통계적 가설검증(statistical hyphotheisis testing) 사용 _ (일원분석, 이원분석, 아노바 등..)
 2. Machine Learning => prediction
      : 기존에 있는 데이터를 바탕으로 학습하는것 _ 여기부터는 예측(prediction)이 들어간다.
 3. Deep learning (Machine learning 심화)
