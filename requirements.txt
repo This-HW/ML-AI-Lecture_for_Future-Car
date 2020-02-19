@@ -2,5 +2,5 @@ python == 3.6
 numpy
 pandas
 matplotlib
-tensorflow == 1.15
+tensorflow == 1.15.2
 sklearn
