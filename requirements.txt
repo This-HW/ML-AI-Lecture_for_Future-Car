@@ -3,3 +3,4 @@ numpy
 pandas
 matplotlib
 tensorflow == 1.15
+sklearn
